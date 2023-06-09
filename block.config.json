@@ -1,0 +1,39 @@
+{
+  "name": "athultest2",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/uttahb/athultest2.git",
+    "ssh": "git@github.com:uttahb/athultest2.git",
+    "branch": "block_athultest2"
+  },
+  "dependencies": {
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "athultest2fn": {
+      "directory": "athultest2fn"
+    }
+  },
+  "blockId": "E_Nv71ohMSQ9g5dNi-14u",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
