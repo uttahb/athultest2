@@ -1,0 +1,20 @@
+{
+  "blockId": "v3hLR_5FACENn_L6XI4Vo",
+  "name": "athultest2fn",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/uttahb/athultest2.git",
+    "ssh": "git@github.com:uttahb/athultest2.git",
+    "branch": "block_athultest2fn"
+  },
+  "parentBlockIDs": [
+    "E_Nv71ohMSQ9g5dNi-14u"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
