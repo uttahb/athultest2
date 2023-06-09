@@ -2,7 +2,7 @@ import fs from 'fs'
 import path from 'path'
 import { getDB, getBody, sendResponse } from './utils.js'
 import { env } from '@appblocks/node-sdk'
-
+// test edit 3
 env.init()
 
 const handler = async ({ req, res }) => {
